@@ -6,6 +6,9 @@
 * Product link: [Click me](https://es.aliexpress.com/item/32828658217.html?spm=a2g0s.9042311.0.0.274263c0UWiEHI)
 * IDF version: 4.1
 * Module: esp32 wroom
+
+<img src="https://github.com/roquita/esp32_qspi_external_flash/blob/master/img/winbond25q16.png" alt="portfolio_view" height="400px">
+
 ## Hardware connections
 ESP32 pin     | SPI bus signal | SPI Flash pin 
 --------------|----------------|----------------
